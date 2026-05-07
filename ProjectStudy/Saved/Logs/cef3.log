@@ -1,11 +1,78 @@
-[7832:20044:0423/180632.251:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[7832:21708:0423/180632.288:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[7832:20044:0423/180632.313:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[7832:20124:0423/180634.139:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Desktop\daa\UE5\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Desktop\daa\UE5\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[7832:20124:0423/180634.142:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Desktop\daa\UE5\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Desktop\daa\UE5\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[7832:20124:0423/180634.143:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Desktop\daa\UE5\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Desktop\daa\UE5\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[7832:20124:0423/180634.145:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Desktop\daa\UE5\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Desktop\daa\UE5\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[7832:13688:0423/180634.402:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[7832:13688:0423/180634.404:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21860:20248:0423/180635.246:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-18AE9B790E2F40A139EEE635D19CB957 will be ignored
-[7832:20044:0423/194513.472:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[16852:15208:0507/171140.294:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16852:10216:0507/171140.352:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16852:15208:0507/171140.372:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16852:22368:0507/171142.125:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Desktop\aa\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Desktop\aa\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16852:22368:0507/171142.128:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Desktop\aa\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Desktop\aa\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16852:22368:0507/171142.131:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Desktop\aa\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Desktop\aa\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16852:22368:0507/171142.133:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Desktop\aa\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Desktop\aa\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16852:10216:0507/171142.838:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16852:10216:0507/171142.839:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[23160:23112:0507/171143.518:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7A6137C22F84B38246532B527E35D806 will be ignored
+[6492:22380:0507/171143.528:ERROR:backend_impl.cc(989)] Critical error found -8
+[6492:22380:0507/171143.528:ERROR:entry_impl.cc(1029)] No file for c10300d0
+[6492:22380:0507/171143.528:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.863:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.863:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.863:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.863:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.863:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.863:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.880:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.880:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.880:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.880:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.880:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.880:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.880:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.880:ERROR:entry_impl.cc(955)] Failed to save user data
+[6492:22380:0507/171143.880:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.880:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.880:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.880:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.880:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.880:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.880:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.880:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.881:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.881:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.882:ERROR:entry_impl.cc(955)] Failed to save user data
+[6492:22380:0507/171143.882:ERROR:entry_impl.cc(955)] Failed to save user data
+[6492:22380:0507/171143.882:ERROR:entry_impl.cc(955)] Failed to save user data
+[6492:22380:0507/171143.882:ERROR:entry_impl.cc(955)] Failed to save user data
+[6492:22380:0507/171143.882:ERROR:entry_impl.cc(955)] Failed to save user data
+[6492:22380:0507/171143.882:ERROR:entry_impl.cc(955)] Failed to save user data
+[6492:22380:0507/171143.882:ERROR:entry_impl.cc(955)] Failed to save user data
+[6492:22380:0507/171143.882:ERROR:entry_impl.cc(955)] Failed to save user data
+[6492:22380:0507/171143.882:ERROR:entry_impl.cc(955)] Failed to save user data
+[6492:22380:0507/171143.882:ERROR:entry_impl.cc(955)] Failed to save user data
+[6492:22380:0507/171143.882:ERROR:entry_impl.cc(955)] Failed to save user data
+[6492:22380:0507/171143.882:ERROR:entry_impl.cc(955)] Failed to save user data
+[6492:22380:0507/171143.898:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.898:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.898:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.898:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.898:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.898:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.900:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.900:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171143.901:ERROR:entry_impl.cc(955)] Failed to save user data
+[6492:22380:0507/171144.487:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171144.487:WARNING:storage_block-inl.h(138)] Failed data load.
+[6492:22380:0507/171144.487:WARNING:storage_block-inl.h(138)] Failed data load.
+[16852:15208:0507/171148.177:ERROR:device_event_log_impl.cc(196)] [17:11:47.845] USB: usb_service_win.cc:445 Failed to parse device interface GUID:
+[16852:15208:0507/180540.450:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
